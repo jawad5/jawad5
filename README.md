@@ -1,55 +1,53 @@
-With the great industry experience in full stack web development and systems architecture:
+Experienced and results-driven Full Stack Web Developer with a proven track record of creating cutting-edge solutions across various industries. With a strong foundation in systems architecture, I specialize in delivering end-to-end web and mobile applications, from concept to implementation. My skills encompass a wide range of technologies, ensuring adaptable and scalable solutions for diverse client needs.
 
-• Create user information solutions by developing and maintaining web applications, IOS and android applications
-• Develop and build Dashboards, Admin Panel, All kind of Portals (Store Portal, Management Portal, Teacher Portal, Student Portal), CMS, Ecommerce website, Education websites, PWA, Branding websites, Point of Sale, Inventory System and other customized solutions according to the requirement of client
-• Build the apps from ideation to MVP and beyond
-• Provide multifaceted technical solutions across a wide range of software platforms
-• Update or fix existing apps in need of care
-• Provide the solution of data integration
-• Integration between two software
+Key Skills:
+ Software Development and Deployment Stack:
+ ✅ Frontend: HTML, CSS, JavaScript, TypeScript, React.js,Next.js, Redux
+ ✅ Mobile: Flutter, Dart, React Native
+ ✅ Backend: Node.js, NestJS, Express.js, C#, .Net ,Python, Flask, Docker
+ ✅ Cloud: AWS, Azure, AzureDevOps, DigitalOcean, Terraform, CI/CD Pipelibes
 
-Services:
-• Custom software development and app strategy
-• Software product development
-• Maintenance and support for existing software
-• App redesign
+ Database Management:
+ ✅ MySql, Microsoft SQL, MariaDB, Postgresql, NoSql, MongoDB
 
-Languages and Tools:
-• HTML and CSS
-• JavaScript and Typescript
-• Bootstraps
-• React.js
-• React Native
-• Native Base
-• Redux
-• Typeorm
-• Node.js
-• Nest.js
-• MySQL and Maria DB
-• GitHub
-• Postman
-• C#
-• .Net
-• Microsoft SQL Server
+ Tools and Version Control:
+ ✅ Bitbucket, GitHub, Git, Postman
 
-Others:
-• Payment Gateway Integration
-• API Integration
-• UI/UX design
-• RESTful APIs
-• Software Architecture
-• Software Development Process
-• Software Testing
-• Object-Oriented Design (OOD)
-• Agile Methodology
+ Additional Competencies:
+ ✅ UI/UX Design
+ ✅ Software Architecture
+ ✅ RESTful APIs (JSON)
+ ✅ Payment Gateway Integration (Stripe, Bamboo, Nets and many others)
+ ✅ SwaggerHub Integration
+ ✅ API Integration
+ ✅ Software Testing
+ ✅ Agile Methodology
+ ✅ Project Management
 
-Successfully collaborate on solutions to offer the best user experience to build higher customer lifetime value. It would be a pleasure to learn more about your product requirements, and I would welcome the chance to provide further insight into my knowledge of project management, technical abilities, personal attributes and track record of success in building revenue generating web technologies compatible across multiple platforms, browsers and devices.
+Specializations:
+ ✔ E-commerce Websites
+ ✔ Dashboards and Admin Panels (AI Customized Insights)
+ ✔ Portals (Admin, Store, Management, Teacher, Student)
+ ✔ CMS and CRM Systems
+ ✔ Blog Websites
+ ✔ Education Websites (LMS)
+ ✔ Progressive Web Apps (PWA)
+ ✔ Branding Websites
+ ✔ Point of Sale (Cashdrawer and Printer)
+ ✔ Inventory Systems (ERP)
+ ✔ Customized Solutions According to Client Requirements
 
+Services Offered:
+ ✔ Software Product Development
+ ✔ Maintenance and Support for Existing Software
+ ✔ Custom Android and iOS Apps
+ ✔ App Development from Ideation to MVP and Beyond
+ ✔ Multifaceted Technical Solutions across Software Platforms
+ ✔ Update or Fix Existing Apps
+ ✔ Data Integration Solutions
 
-- Email jawadshah20@outlook.com
-- Phone +923101621379 
+Work Process:
+I follow a meticulous Software Development Process, ensuring a high-quality outcome. My approach is rooted in Agile Methodology, emphasizing collaboration, adaptability, and client satisfaction.
 
-<!---
-jawad5/jawad5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's Collaborate!
+If you're looking for a dedicated and innovative Software Engineer who can turn your ideas into reality, let's connect.
